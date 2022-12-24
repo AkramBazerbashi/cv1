@@ -1,0 +1,333 @@
+<svg width="595.28px" height="841.89px" viewBox="0 0 595.28 841.89" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="100%" height="100%" fill="white"/>
+<path d="M 0,0 L 200,0 C 200,0,200,0,200,0 L 200,841.89 C 200,841.89,200,841.89,200,841.89 L 0,841.89 C 0,841.89,0,841.89,0,841.89 L 0,0 C 0,0,0,0,0,0 Z" fill="#333333" />
+<path d="M 30,30 L 565.28,30 C 565.28,30,565.28,30,565.28,30 L 565.28,215.72 C 565.28,215.72,565.28,215.72,565.28,215.72 L 30,215.72 C 30,215.72,30,215.72,30,215.72 L 30,30 C 30,30,30,30,30,30 Z" fill="white" />
+<path d="M 40,40 L 555.28,40 C 555.28,40,555.28,40,555.28,40 L 555.28,205.72 C 555.28,205.72,555.28,205.72,555.28,205.72 L 40,205.72 C 40,205.72,40,205.72,40,205.72 L 40,40 C 40,40,40,40,40,40 Z" fill="#b2869d" />
+<text x="60" y="93.5125" style="font: bold 35px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 1px;" fill="white">CAITLIN </text>
+<text x="215.7587890625" y="93.5125" style="font: bold 35px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 1px;" fill="white">SMITH</text>
+<text x="60" y="116.72250000000001" style="font: bold 13px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#ffffff">Customer-</text>
+<text x="125.00634765625" y="116.72250000000001" style="font: bold 13px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#ffffff">Focused </text>
+<text x="182.07177734375" y="116.72250000000001" style="font: bold 13px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#ffffff">Retail </text>
+<text x="221.08447265625" y="116.72250000000001" style="font: bold 13px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#ffffff">Assistant</text>
+<image x="60" y="133.095" width="9" height="9" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiPjxwYXRoIGQ9Ik01MDIuMyAxOTAuOGMzLjktMy4xIDkuNy0uMiA5LjcgNC43VjQwMGMwIDI2LjUtMjEuNSA0OC00OCA0OEg0OGMtMjYuNSAwLTQ4LTIxLjUtNDgtNDhWMTk1LjZjMC01IDUuNy03LjggOS43LTQuNyAyMi40IDE3LjQgNTIuMSAzOS41IDE1NC4xIDExMy42IDIxLjEgMTUuNCA1Ni43IDQ3LjggOTIuMiA0Ny42IDM1LjcuMyA3Mi0zMi44IDkyLjMtNDcuNiAxMDItNzQuMSAxMzEuNi05Ni4zIDE1NC0xMTMuN3pNMjU2IDMyMGMyMy4yLjQgNTYuNi0yOS4yIDczLjQtNDEuNCAxMzIuNy05Ni4zIDE0Mi44LTEwNC43IDE3My40LTEyOC43IDUuOC00LjUgOS4yLTExLjUgOS4yLTE4Ljl2LTE5YzAtMjYuNS0yMS41LTQ4LTQ4LTQ4SDQ4QzIxLjUgNjQgMCA4NS41IDAgMTEydjE5YzAgNy40IDMuNCAxNC4zIDkuMiAxOC45IDMwLjYgMjMuOSA0MC43IDMyLjQgMTczLjQgMTI4LjcgMTYuOCAxMi4yIDUwLjIgNDEuOCA3My40IDQxLjR6Ij48L3BhdGg+PC9zdmc+" image-rendering="optimizeSpeed"  />
+<text x="75" y="140.52" style="font: normal 9px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="white">caitlin.smith@yahoo.com</text>
+<image x="60" y="146.845" width="9" height="9" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiPjxwYXRoIGQ9Ik00OTMuNCAyNC42bC0xMDQtMjRjLTExLjMtMi42LTIyLjkgMy4zLTI3LjUgMTMuOWwtNDggMTEyYy00LjIgOS44LTEuNCAyMS4zIDYuOSAyOGw2MC42IDQ5LjZjLTM2IDc2LjctOTguOSAxNDAuNS0xNzcuMiAxNzcuMmwtNDkuNi02MC42Yy02LjgtOC4zLTE4LjItMTEuMS0yOC02LjlsLTExMiA0OEMzLjkgMzY2LjUtMiAzNzguMS42IDM4OS40bDI0IDEwNEMyNy4xIDUwNC4yIDM2LjcgNTEyIDQ4IDUxMmMyNTYuMSAwIDQ2NC0yMDcuNSA0NjQtNDY0IDAtMTEuMi03LjctMjAuOS0xOC42LTIzLjR6Ij48L3BhdGg+PC9zdmc+" image-rendering="optimizeSpeed"  />
+<text x="75" y="154.27" style="font: normal 9px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="white">+44 </text>
+<text x="92.76708984375" y="154.27" style="font: normal 9px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="white">75778 </text>
+<text x="120.29443359375" y="154.27" style="font: normal 9px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="white">563566</text>
+<image x="59.4375" y="160.595" width="10.125" height="9" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgNTc2IDUxMiIgd2lkdGg9IjU3NiIgaGVpZ2h0PSI1MTIiPjxwYXRoIGQ9Ik0yODAuMzcgMTQ4LjI2TDk2IDMwMC4xMVY0NjRhMTYgMTYgMCAwIDAgMTYgMTZsMTEyLjA2LS4yOWExNiAxNiAwIDAgMCAxNS45Mi0xNlYzNjhhMTYgMTYgMCAwIDEgMTYtMTZoNjRhMTYgMTYgMCAwIDEgMTYgMTZ2OTUuNjRhMTYgMTYgMCAwIDAgMTYgMTYuMDVMNDY0IDQ4MGExNiAxNiAwIDAgMCAxNi0xNlYzMDBMMjk1LjY3IDE0OC4yNmExMi4xOSAxMi4xOSAwIDAgMC0xNS4zIDB6TTU3MS42IDI1MS40N0w0ODggMTgyLjU2VjQ0LjA1YTEyIDEyIDAgMCAwLTEyLTEyaC01NmExMiAxMiAwIDAgMC0xMiAxMnY3Mi42MUwzMTguNDcgNDNhNDggNDggMCAwIDAtNjEgMEw0LjM0IDI1MS40N2ExMiAxMiAwIDAgMC0xLjYgMTYuOWwyNS41IDMxQTEyIDEyIDAgMCAwIDQ1LjE1IDMwMWwyMzUuMjItMTkzLjc0YTEyLjE5IDEyLjE5IDAgMCAxIDE1LjMgMEw1MzAuOSAzMDFhMTIgMTIgMCAwIDAgMTYuOS0xLjZsMjUuNS0zMWExMiAxMiAwIDAgMC0xLjctMTYuOTN6Ij48L3BhdGg+PC9zdmc+" image-rendering="optimizeSpeed"  />
+<text x="75" y="168.02" style="font: normal 9px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="white">29 </text>
+<text x="87.51123046875" y="168.02" style="font: normal 9px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="white">West </text>
+<text x="110.51220703125" y="168.02" style="font: normal 9px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="white">Street, </text>
+<text x="139.52490234375" y="168.02" style="font: normal 9px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="white">BN1 </text>
+<text x="159.533203125" y="168.02" style="font: normal 9px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="white">78R </text>
+<text x="178.5439453125" y="168.02" style="font: normal 9px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="white">Brighton</text>
+<image x="60.5625" y="174.345" width="7.875" height="9" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgNDQ4IDUxMiIgd2lkdGg9IjQ0OCIgaGVpZ2h0PSI1MTIiPjxwYXRoIGQ9Ik00MTYgMzJIMzEuOUMxNC4zIDMyIDAgNDYuNSAwIDY0LjN2MzgzLjRDMCA0NjUuNSAxNC4zIDQ4MCAzMS45IDQ4MEg0MTZjMTcuNiAwIDMyLTE0LjUgMzItMzIuM1Y2NC4zYzAtMTcuOC0xNC40LTMyLjMtMzItMzIuM3pNMTM1LjQgNDE2SDY5VjIwMi4yaDY2LjVWNDE2em0tMzMuMi0yNDNjLTIxLjMgMC0zOC41LTE3LjMtMzguNS0zOC41UzgwLjkgOTYgMTAyLjIgOTZjMjEuMiAwIDM4LjUgMTcuMyAzOC41IDM4LjUgMCAyMS4zLTE3LjIgMzguNS0zOC41IDM4LjV6bTI4Mi4xIDI0M2gtNjYuNFYzMTJjMC0yNC44LS41LTU2LjctMzQuNS01Ni43LTM0LjYgMC0zOS45IDI3LTM5LjkgNTQuOVY0MTZoLTY2LjRWMjAyLjJoNjMuN3YyOS4yaC45YzguOS0xNi44IDMwLjYtMzQuNSA2Mi45LTM0LjUgNjcuMiAwIDc5LjcgNDQuMyA3OS43IDEwMS45VjQxNnoiPjwvcGF0aD48L3N2Zz4=" image-rendering="optimizeSpeed"  />
+<text x="75" y="181.77" style="font: normal 9px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="white">linkedin.com/in/caitlin-</text>
+<text x="163.03564453125" y="181.77" style="font: normal 9px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="white">smith</text>
+<text x="40" y="247.87" style="font: normal 12px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 1px;" fill="#b2869d">LANGUAGES</text>
+<text x="40" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">English</text>
+<rect x="40" y="280.845" width="140" height="4" fill="#b2869d "/>
+<text x="40" y="309.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">French</text>
+<rect x="40" y="318.345" width="28" height="4" fill="#b2869d "/>
+<rect x="68" y="318.345" width="112" height="4" fill="#eeeeee "/>
+<text x="40" y="359.37" style="font: normal 12px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 1px;" fill="#b2869d">QUALITIES</text>
+<path d="M 40,376.845 L 47.5,376.845 C 47.5,376.845,47.5,376.845,47.5,376.845 L 47.5,384.345 C 47.5,384.345,47.5,384.345,47.5,384.345 L 40,384.345 C 40,384.345,40,384.345,40,384.345 L 40,376.845 C 40,376.845,40,376.845,40,376.845 Z" fill="#b2869d" />
+<text x="52.5" y="383.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">Communication: </text>
+<text x="127.529296875" y="383.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">Explaining</text>
+<text x="52.5" y="397.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">products </text>
+<text x="93.6328125" y="397.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">to </text>
+<text x="104.7509765625" y="397.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">customers,</text>
+<text x="52.5" y="411.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">responding </text>
+<text x="104.7607421875" y="411.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">to </text>
+<text x="115.87890625" y="411.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">complaints</text>
+<text x="52.5" y="425.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">effectively </text>
+<text x="99.7412109375" y="425.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">and </text>
+<text x="119.2041015625" y="425.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">handling</text>
+<text x="52.5" y="438.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">queries </text>
+<text x="88.076171875" y="438.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">via </text>
+<text x="103.6376953125" y="438.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">the </text>
+<text x="120.3173828125" y="438.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">phone, </text>
+<text x="153.681640625" y="438.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">email</text>
+<text x="52.5" y="452.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">or </text>
+<text x="64.169921875" y="452.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">live </text>
+<text x="81.953125" y="452.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">chat.</text>
+<path d="M 40,469.345 L 47.5,469.345 C 47.5,469.345,47.5,469.345,47.5,469.345 L 47.5,476.845 C 47.5,476.845,47.5,476.845,47.5,476.845 L 40,476.845 C 40,476.845,40,476.845,40,476.845 L 40,469.345 C 40,469.345,40,469.345,40,469.345 Z" fill="#b2869d" />
+<text x="52.5" y="476.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">Attention </text>
+<text x="94.7509765625" y="476.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">to </text>
+<text x="105.869140625" y="476.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">detail:</text>
+<text x="52.5" y="490.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">Processing </text>
+<text x="104.74609375" y="490.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">transactions</text>
+<text x="52.5" y="503.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">correctly </text>
+<text x="93.0615234375" y="503.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">and </text>
+<text x="112.5244140625" y="503.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">monitoring</text>
+<text x="52.5" y="517.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">stock </text>
+<text x="78.6181640625" y="517.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">levels </text>
+<text x="106.962890625" y="517.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">accurately.</text>
+<path d="M 40,534.345 L 47.5,534.345 C 47.5,534.345,47.5,534.345,47.5,534.345 L 47.5,541.845 C 47.5,541.845,47.5,541.845,47.5,541.845 L 40,541.845 C 40,541.845,40,541.845,40,541.845 L 40,534.345 C 40,534.345,40,534.345,40,534.345 Z" fill="#b2869d" />
+<text x="52.5" y="541.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">Mathematical: </text>
+<text x="117.5244140625" y="541.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">Managing</text>
+<text x="52.5" y="555.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">cash, </text>
+<text x="79.1796875" y="555.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">handling </text>
+<text x="119.7705078125" y="555.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">large</text>
+<text x="52.5" y="568.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">amounts </text>
+<text x="93.6328125" y="568.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">of </text>
+<text x="104.7509765625" y="568.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">money </text>
+<text x="137.5439453125" y="568.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">and</text>
+<text x="52.5" y="582.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">approving </text>
+<text x="99.19921875" y="582.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">credit.</text>
+<path d="M 40,599.345 L 47.5,599.345 C 47.5,599.345,47.5,599.345,47.5,599.345 L 47.5,606.845 C 47.5,606.845,47.5,606.845,47.5,606.845 L 40,606.845 C 40,606.845,40,606.845,40,606.845 L 40,599.345 C 40,599.345,40,599.345,40,599.345 Z" fill="#b2869d" />
+<text x="52.5" y="606.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">Sales: </text>
+<text x="83.0712890625" y="606.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">Upselling </text>
+<text x="126.982421875" y="606.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">accessories</text>
+<text x="52.5" y="620.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">to </text>
+<text x="63.6181640625" y="620.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">generate </text>
+<text x="105.8740234375" y="620.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">&#163;500 </text>
+<text x="130.8984375" y="620.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">in</text>
+<text x="52.5" y="633.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">additional </text>
+<text x="98.0908203125" y="633.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">daily </text>
+<text x="121.435546875" y="633.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">revenue.</text>
+<path d="M 40,650.595 L 47.5,650.595 C 47.5,650.595,47.5,650.595,47.5,650.595 L 47.5,658.095 C 47.5,658.095,47.5,658.095,47.5,658.095 L 40,658.095 C 40,658.095,40,658.095,40,658.095 L 40,650.595 C 40,650.595,40,650.595,40,650.595 Z" fill="#b2869d" />
+<text x="52.5" y="657.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">Technical: </text>
+<text x="100.8544921875" y="657.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">Operating</text>
+<text x="52.5" y="671.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">electronic </text>
+<text x="98.076171875" y="671.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">cash </text>
+<text x="121.9775390625" y="671.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">registers,</text>
+<text x="52.5" y="685.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">credit </text>
+<text x="79.7314453125" y="685.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">card </text>
+<text x="101.962890625" y="685.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">processors </text>
+<text x="153.6474609375" y="685.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">and</text>
+<text x="52.5" y="698.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#cccccc">Shopify.</text>
+<rect x="220" y="235.72" width="67.345703125" height="16.5" fill="#b2869d "/>
+<text x="224" y="247.87" style="font: normal 12px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 1px;" fill="white">PROFILE</text>
+<text x="220" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">I </text>
+<text x="225.556640625" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">am </text>
+<text x="242.2265625" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">a </text>
+<text x="250.56640625" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">customer-</text>
+<text x="295.01953125" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">focused </text>
+<text x="332.822265625" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">retail </text>
+<text x="357.275390625" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">assistant </text>
+<text x="399.5166015625" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">with </text>
+<text x="420.078125" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">4 </text>
+<text x="428.41796875" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">years </text>
+<text x="455.6494140625" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">of </text>
+<text x="466.767578125" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">retail </text>
+<text x="491.220703125" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">experience. </text>
+<text x="545.6982421875" y="272.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">I</text>
+<text x="220" y="286.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">am </text>
+<text x="236.669921875" y="286.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">to </text>
+<text x="247.7880859375" y="286.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">rapidly </text>
+<text x="280.0244140625" y="286.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">acquire </text>
+<text x="315.6005859375" y="286.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">product </text>
+<text x="351.7333984375" y="286.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">knowledge </text>
+<text x="402.32421875" y="286.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">to </text>
+<text x="413.4423828125" y="286.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">offer </text>
+<text x="436.23046875" y="286.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">advice </text>
+<text x="467.9150390625" y="286.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">tailored </text>
+<text x="503.4912109375" y="286.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">to</text>
+<text x="220" y="299.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">customers&#8217; </text>
+<text x="271.123046875" y="299.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">needs. </text>
+<text x="303.92578125" y="299.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Through </text>
+<text x="343.9501953125" y="299.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">upselling </text>
+<text x="386.201171875" y="299.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">accessories </text>
+<text x="441.77734375" y="299.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">at </text>
+<text x="452.8955078125" y="299.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">a </text>
+<text x="461.2353515625" y="299.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">fashion </text>
+<text x="496.259765625" y="299.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">outlet, </text>
+<text x="526.279296875" y="299.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">I </text>
+<text x="531.8359375" y="299.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">have</text>
+<text x="220" y="313.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">been </text>
+<text x="245.0244140625" y="313.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">able </text>
+<text x="266.708984375" y="313.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">consistently </text>
+<text x="321.7333984375" y="313.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">generate </text>
+<text x="363.9892578125" y="313.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">over </text>
+<text x="386.220703125" y="313.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">&#163;500 </text>
+<text x="411.2451171875" y="313.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">in </text>
+<text x="421.806640625" y="313.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">additional </text>
+<text x="467.3974609375" y="313.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">daily </text>
+<text x="490.7421875" y="313.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">revenue. </text>
+<text x="532.4365234375" y="313.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">I </text>
+<text x="537.9931640625" y="313.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">am</text>
+<text x="220" y="327.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">currently </text>
+<text x="261.123046875" y="327.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">seeking </text>
+<text x="298.369140625" y="327.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">a </text>
+<text x="306.708984375" y="327.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">role </text>
+<text x="326.162109375" y="327.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">at </text>
+<text x="337.2802734375" y="327.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">a </text>
+<text x="345.6201171875" y="327.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">fashion </text>
+<text x="380.64453125" y="327.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">retailer </text>
+<text x="413.9892578125" y="327.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">to </text>
+<text x="425.107421875" y="327.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">further </text>
+<text x="456.787109375" y="327.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">deliver </text>
+<text x="489.0234375" y="327.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">excellent</text>
+<text x="220" y="341.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">service.</text>
+<rect x="220" y="364.72" width="103.01171874999999" height="16.5" fill="#b2869d "/>
+<text x="224" y="376.87" style="font: normal 12px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 1px;" fill="white">EMPLOYMENT</text>
+<text x="220" y="401.345" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Fashion </text>
+<text x="261.11328125" y="401.345" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Sales </text>
+<text x="290.0244140625" y="401.345" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Assistant</text>
+<text x="520.817109375" y="401.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Present</text>
+<text x="220" y="415.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#888888">TopShop, </text>
+<text x="266.142578125" y="415.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#888888">London</text>
+<text x="240" y="428.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Recipient </text>
+<text x="284.4677734375" y="428.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">of </text>
+<text x="295.5859375" y="428.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Sales </text>
+<text x="323.37890625" y="428.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Associate </text>
+<text x="369.51171875" y="428.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">of </text>
+<text x="380.6298828125" y="428.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">the </text>
+<text x="397.3095703125" y="428.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Year </text>
+<text x="421.2109375" y="428.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">through </text>
+<text x="457.9052734375" y="428.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">successfully </text>
+<text x="514.58984375" y="428.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">selling</text>
+<circle cx="230" cy="426.845" r="2" fill="black "/>
+<text x="240" y="442.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">over </text>
+<text x="262.2314453125" y="442.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">&#163;30k </text>
+<text x="286.6943359375" y="442.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">in </text>
+<text x="297.255859375" y="442.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">fashion </text>
+<text x="332.2802734375" y="442.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">accessories.</text>
+<text x="240" y="456.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Developing </text>
+<text x="292.8125" y="456.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">knowledge </text>
+<text x="343.4033203125" y="456.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">of </text>
+<text x="354.521484375" y="456.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">current </text>
+<text x="388.4228515625" y="456.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">sales </text>
+<text x="414.5458984375" y="456.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">promotions </text>
+<text x="466.7919921875" y="456.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">and </text>
+<text x="486.2548828125" y="456.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">events </text>
+<text x="518.49609375" y="456.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">to</text>
+<circle cx="230" cy="454.345" r="2" fill="black "/>
+<text x="240" y="470.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">inform </text>
+<text x="270.5615234375" y="470.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">customers </text>
+<text x="319.462890625" y="470.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">at </text>
+<text x="330.5810546875" y="470.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">the </text>
+<text x="347.2607421875" y="470.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">entrance.</text>
+<text x="240" y="483.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Stocking </text>
+<text x="281.1328125" y="483.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">shelves </text>
+<text x="317.8173828125" y="483.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">and </text>
+<text x="337.2802734375" y="483.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">displaying </text>
+<text x="384.53125" y="483.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">products  </text>
+<text x="428.4423828125" y="483.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">according </text>
+<text x="474.580078125" y="483.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">to </text>
+<text x="485.6982421875" y="483.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">merchandising</text>
+<circle cx="230" cy="481.845" r="2" fill="black "/>
+<text x="240" y="497.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">department </text>
+<text x="293.3642578125" y="497.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">layout.</text>
+<text x="220" y="521.345" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Sales </text>
+<text x="248.9111328125" y="521.345" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Associate</text>
+<text x="460.76828125" y="521.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Aug </text>
+<text x="481.3395703125" y="521.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">2017 </text>
+<text x="506.363984375" y="521.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">-</text>
+<text x="509.6940625" y="521.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black"> </text>
+<text x="512.4723828125" y="521.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Dec </text>
+<text x="533.03390625" y="521.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">2019</text>
+<text x="220" y="535.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#888888">PC </text>
+<text x="236.669921875" y="535.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#888888">World, </text>
+<text x="268.33984375" y="535.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#888888">London</text>
+<text x="240" y="548.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Offered </text>
+<text x="276.1279296875" y="548.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">customers </text>
+<text x="325.029296875" y="548.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">assistance </text>
+<text x="375.0537109375" y="548.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">with </text>
+<text x="395.615234375" y="548.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">their </text>
+<text x="417.8466796875" y="548.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">purchases </text>
+<text x="466.7626953125" y="548.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">and </text>
+<text x="486.2255859375" y="548.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">provided</text>
+<circle cx="230" cy="546.845" r="2" fill="black "/>
+<text x="240" y="562.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">specialist </text>
+<text x="283.90625" y="562.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">advice </text>
+<text x="315.5908203125" y="562.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">on </text>
+<text x="329.4921875" y="562.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">laptops, </text>
+<text x="367.294921875" y="562.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">resulting </text>
+<text x="407.87109375" y="562.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">in </text>
+<text x="418.4326171875" y="562.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">3-</text>
+<text x="427.32421875" y="562.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">4 </text>
+<text x="435.6640625" y="562.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">daily </text>
+<text x="459.0087890625" y="562.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">sales </text>
+<text x="485.1318359375" y="562.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">totalling </text>
+<text x="522.3779296875" y="562.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">&#163;2000.</text>
+<text x="240" y="576.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Served </text>
+<text x="274.462890625" y="576.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">and </text>
+<text x="293.92578125" y="576.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">assisted </text>
+<text x="333.388671875" y="576.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">customers </text>
+<text x="382.2900390625" y="576.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">on </text>
+<text x="396.19140625" y="576.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">checkouts.</text>
+<circle cx="230" cy="574.345" r="2" fill="black "/>
+<text x="240" y="590.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Answered </text>
+<text x="287.24609375" y="590.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">the </text>
+<text x="303.92578125" y="590.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">phone </text>
+<text x="334.51171875" y="590.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">and </text>
+<text x="353.974609375" y="590.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">helped </text>
+<text x="386.7822265625" y="590.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">with </text>
+<text x="407.34375" y="590.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">queries/complaints, </text>
+<text x="496.2744140625" y="590.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">remaining</text>
+<circle cx="230" cy="588.095" r="2" fill="black "/>
+<text x="240" y="603.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">professional </text>
+<text x="296.69921875" y="603.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">at </text>
+<text x="307.8173828125" y="603.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">all </text>
+<text x="320.6005859375" y="603.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">times.</text>
+<rect x="220" y="627.47" width="88.66992187499999" height="16.5" fill="#b2869d "/>
+<text x="224" y="639.62" style="font: normal 12px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 1px;" fill="white">EDUCATION</text>
+<text x="220" y="664.095" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">BTEC </text>
+<text x="250" y="664.095" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Level </text>
+<text x="278.349609375" y="664.095" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">3 </text>
+<text x="286.689453125" y="664.095" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Certificate </text>
+<text x="338.3740234375" y="664.095" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">in </text>
+<text x="350.0390625" y="664.095" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Retail</text>
+<text x="220" y="677.845" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Knowledge</text>
+<text x="465.76828125" y="664.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Sep </text>
+<text x="486.3395703125" y="664.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">2016 </text>
+<text x="511.363984375" y="664.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">-</text>
+<text x="514.6940625" y="664.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black"> </text>
+<text x="517.4723828125" y="664.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Jul </text>
+<text x="533.03390625" y="664.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">2017</text>
+<text x="220" y="691.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#888888">Hither </text>
+<text x="249.453125" y="691.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#888888">Green </text>
+<text x="280.0244140625" y="691.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#888888">College, </text>
+<text x="319.4921875" y="691.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#888888">London</text>
+<text x="240.628984375" y="705.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Understanding </text>
+<text x="309.08023437500003" y="705.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">the </text>
+<text x="326.38890625" y="705.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">management </text>
+<text x="388.16535156249995" y="705.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">of </text>
+<text x="399.91249999999997" y="705.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">stock, </text>
+<text x="429.43796875" y="705.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">security </text>
+<text x="467.29839843749994" y="705.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">and </text>
+<text x="487.3902734374999" y="705.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">loss </text>
+<text x="508.5807812499999" y="705.345" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">prevention</text>
+<circle cx="230" cy="703.345" r="2" fill="black "/>
+<text x="240" y="719.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">in </text>
+<text x="251.17646661931818" y="719.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">a </text>
+<text x="260.13125355113635" y="719.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">retail </text>
+<text x="285.19932173295456" y="719.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">business, </text>
+<text x="330.8386789772727" y="719.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">and </text>
+<text x="350.91651278409086" y="719.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">how </text>
+<text x="372.65450284090906" y="719.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">the </text>
+<text x="389.94913352272727" y="719.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">effectiveness </text>
+<text x="451.7066548295454" y="719.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">of </text>
+<text x="463.43976207386356" y="719.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">store </text>
+<text x="489.06447088068177" y="719.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">operations </text>
+<text x="539.156953125" y="719.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">can</text>
+<text x="240" y="732.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">be </text>
+<text x="253.9013671875" y="732.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">improved.</text>
+<text x="220" y="756.595" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">A-</text>
+<text x="230.5517578125" y="756.595" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Levels </text>
+<text x="264.462890625" y="756.595" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">in </text>
+<text x="276.1279296875" y="756.595" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Economics, </text>
+<text x="335.0341796875" y="756.595" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">General </text>
+<text x="375.0537109375" y="756.595" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Studies</text>
+<text x="220" y="770.345" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">and </text>
+<text x="240.556640625" y="770.345" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">English </text>
+<text x="279.4482421875" y="770.345" style="font: bold 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Languages</text>
+<text x="465.76828125" y="756.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Sep </text>
+<text x="486.3395703125" y="756.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">2014 </text>
+<text x="511.363984375" y="756.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">-</text>
+<text x="514.6940625" y="756.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black"> </text>
+<text x="517.4723828125" y="756.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Jul </text>
+<text x="533.03390625" y="756.595" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">2016</text>
+<text x="220" y="784.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#888888">Hayfield </text>
+<text x="258.90625" y="784.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#888888">High </text>
+<text x="282.2509765625" y="784.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#888888">School, </text>
+<text x="318.3837890625" y="784.095" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="#888888">London</text>
+<text x="240" y="797.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">Achieved </text>
+<text x="283.916015625" y="797.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">3 </text>
+<text x="292.255859375" y="797.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">A </text>
+<text x="301.7041015625" y="797.845" style="font: normal 10px Arial,Helvetica,Arial,sans-serif; white-space: pre; letter-spacing: 0px;" fill="black">grades</text>
+<circle cx="230" cy="795.845" r="2" fill="black "/>
+</svg>
